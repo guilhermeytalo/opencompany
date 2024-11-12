@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+$custom-colors: (
+  "cgrey": #C3CFD9,
+  "cDarkGrey": #4B5C6B,
+  "cLightGrey": #788896,
+  "cblue": #2C88D9,
+  "csuccess": #207868
+);
+
+
+
+// Merge your custom colors with Bootstrap's theme-colors
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
+/* Importing Bootstrap SCSS file. */
+@import 'bootstrap/scss/bootstrap';

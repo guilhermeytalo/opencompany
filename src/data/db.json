@@ -1,0 +1,158 @@
+{
+  "empresas": [
+    {
+      "solicitante": {
+        "ds_responsavel": "Catarina Ester da Cruz",
+        "nu_cpf": "83812080176",
+        "date_nascimento": "1984-04-20"
+      },
+      "empresa": {
+        "ds_nome_fantasia": "Diogo e Marcelo Filmagens Ltda",
+        "co_entidade_registro": 104306,
+        "co_natureza_juridica": 10021,
+        "endereco": {
+          "co_cep": 14022094,
+          "ds_logradouro": "Rua Alcino Jacinto Ramos",
+          "co_numero": "233",
+          "ds_complemento": null,
+          "ds_bairro": "Quinta da Primavera",
+          "ds_municipio": "Ribeirão Preto",
+          "co_uf": "29"
+        }
+      },
+      "id": "1"
+    },
+    {
+      "solicitante": {
+        "ds_responsavel": "Ryan Vinicius Nicolas Almeida",
+        "nu_cpf": "02494725976",
+        "date_nascimento": "1990-09-30"
+      },
+      "empresa": {
+        "ds_nome_fantasia": "Isabela e Benício Transportes Ltda",
+        "co_entidade_registro": 104308,
+        "co_natureza_juridica": 10030,
+        "endereco": {
+          "co_cep": 14022094,
+          "ds_logradouro": "Rua Francisco Nunes Villela",
+          "co_numero": "233",
+          "ds_complemento": "Apt 304",
+          "ds_bairro": "Vila dos Comerciários I",
+          "ds_municipio": "Ribeirão Preto",
+          "co_uf": "28"
+        }
+      },
+      "id": "2"
+    },
+    {
+      "solicitante": {
+        "ds_responsavel": "João",
+        "nu_cpf": "06515822022",
+        "date_nascimento": "1997-08-08"
+      },
+      "empresa": {
+        "ds_nome_fantasia": "Teste jão",
+        "co_entidade_registro": "c1ea",
+        "co_natureza_juridica": null,
+        "endereco": {
+          "co_cep": "89223001",
+          "ds_logradouro": "Av. Santos Dumont 800",
+          "co_numero": "800",
+          "ds_complemento": "teste",
+          "ds_bairro": "Bom Retiro",
+          "ds_municipio": "Joinville",
+          "co_uf": "42"
+        }
+      },
+      "id": "69a1"
+    },
+    {
+      "solicitante": {
+        "ds_responsavel": "Empresa Joia",
+        "nu_cpf": "71572932007",
+        "date_nascimento": "1998-08-08"
+      },
+      "empresa": {
+        "ds_nome_fantasia": "Empresa Joia Teste",
+        "co_entidade_registro": "c1ea",
+        "co_natureza_juridica": null,
+        "endereco": {
+          "co_cep": "89223001",
+          "ds_logradouro": "Av. Santos Dumont 800",
+          "co_numero": "800",
+          "ds_complemento": "Apto 501",
+          "ds_bairro": "Bom Retiro",
+          "ds_municipio": "Joinville",
+          "co_uf": "42"
+        }
+      },
+      "id": "0ac0"
+    },
+    {
+      "id": "e34f",
+      "solicitante": {
+        "ds_responsavel": "Jonas",
+        "nu_cpf": "77277691008",
+        "date_nascimento": "2000-08-08"
+      },
+      "empresa": {
+        "ds_nome_fantasia": "Jhonas",
+        "co_entidade_registro": "c1ea",
+        "co_natureza_juridica": null,
+        "endereco": {
+          "co_cep": "89223001",
+          "ds_logradouro": "Av. Santos Dumont",
+          "co_numero": "800",
+          "ds_complemento": "nada",
+          "ds_bairro": "Bom Retiro",
+          "ds_municipio": "Joinville",
+          "co_uf": "11"
+        }
+      }
+    },
+    {
+      "solicitante": {
+        "ds_responsavel": "teste deploy",
+        "nu_cpf": "86394154040",
+        "date_nascimento": "1997-08-08"
+      },
+      "empresa": {
+        "ds_nome_fantasia": "teste deploy 1",
+        "co_entidade_registro": 104306,
+        "co_natureza_juridica": null,
+        "endereco": {
+          "co_cep": "89223001",
+          "ds_logradouro": "Av Santos Dumont",
+          "co_numero": "1",
+          "ds_complemento": null,
+          "ds_bairro": "Bom Retiro",
+          "ds_municipio": "Jille",
+          "co_uf": "42"
+        }
+      },
+      "id": "59c0"
+    }
+  ],
+  "entidade-registro": [
+    {
+      "key": 104305,
+      "value": "Cartório",
+      "id": "c1ea"
+    },
+    {
+      "key": 104306,
+      "value": "Junta Comercial",
+      "id": "d6f0"
+    },
+    {
+      "key": 104308,
+      "value": "OAB",
+      "id": "b3d2"
+    },
+    {
+      "key": 104309,
+      "value": "RFB",
+      "id": "67d1"
+    }
+  ]
+}
